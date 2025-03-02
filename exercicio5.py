@@ -6,10 +6,10 @@ total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido
 escreva o salário final do vendedor.
 '''
 
-salarioFixo = 1800
-valorPorCarro = 250
-valorDasVendas = 40000
-qtdCarroVendido = 4
+salarioFixo = 2000
+valorPorCarro = 100
+valorDasVendas = 100000
+qtdCarroVendido = 12
 
 totalComissao = (qtdCarroVendido * valorPorCarro)
 bonus = (valorDasVendas * 5) / 100
